@@ -3,9 +3,9 @@ title: Adding Boxes
 layout: default
 ---
 
-#Adding Boxes
+# Adding Boxes
 
-##Adding Reason and Objection boxes
+## Adding Reason and Objection boxes
 
 To add a reason box below and connected to a desired box, select the desired box and use either “Add reason” button in the action bar or press Shift+Alt+Enter.
 
@@ -15,7 +15,7 @@ When you add a reason, focus automatically moves to this reason.
 
 Objections work the same way.
 
-##Adding Co-Premises
+## Adding Co-Premises
 
 To add co-premises in Argumentation:
 
