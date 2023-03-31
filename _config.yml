@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Argumentation.io Howto
+description: An online argument mapping tool.
 theme: just-the-docs
 
 url: https://Argumentation-LLC.github.io/howto
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Argumentation.io: https://argumentation.io
