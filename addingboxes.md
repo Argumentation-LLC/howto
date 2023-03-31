@@ -1,5 +1,5 @@
 ---
-title: The Title Of My New Section
+title: Adding Boxes
 layout: default
 ---
 
