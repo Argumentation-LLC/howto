@@ -1,6 +1,7 @@
 ---
 title: Deleting, Undoing, and Redoing
 layout: default
+nav_order: 4
 ---
 
 # Deleting, Undoing, and Redoing
