@@ -1,6 +1,7 @@
 ---
 title: Selecting Boxes and Navigating Your Map
 layout: default
+nav_order: 3
 ---
 # Selecting Boxes and Navigating Your Map
 
