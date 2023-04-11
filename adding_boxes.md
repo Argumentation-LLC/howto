@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 ---
 
-#Adding Boxes
+# Adding Boxes
 
 ## Adding Reasons and Objections
 
