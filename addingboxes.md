@@ -1,6 +1,7 @@
 ---
 title: Adding Boxes
 layout: default
+nav_order: 2
 ---
 
 # Adding Boxes
