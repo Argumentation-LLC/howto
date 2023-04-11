@@ -1,5 +1,5 @@
 ---
-title: The Title Of My New Section
+title: Main Menu
 layout: default
 nav_order: 8
 ---
