@@ -2,6 +2,8 @@
 title: Selecting Boxes and Navigating Your Map
 layout: default
 ---
+# Selecting Boxes and Navigating Your Map
+
 You can select any box by clicking on it with the mouse.
 
 Alternatively, you can select the box above, below, to the right of, or to the left of your current selection by using the key commands Shift+Alt+↑, Shift+Alt+↓, Shift+Alt+→, and Shift+Alt+←. 
