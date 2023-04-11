@@ -6,7 +6,7 @@ nav_order: 8
 
 # Main Menu Commands
 
-The main menu button is three horizontal lines in the upper left-hand corner.
+The main menu button is three horizontal lines in the upper left-hand corner of Argumentation.
 
 **New Map**: starts a new map in place of the one you’re currently working on.
 
