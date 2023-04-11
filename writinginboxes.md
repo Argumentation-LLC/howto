@@ -1,6 +1,7 @@
 ---
 title: Writing in Boxes
 layout: default
+nav_order: 1
 ---
 
 # Writing in Boxes
