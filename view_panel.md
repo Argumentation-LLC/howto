@@ -8,7 +8,7 @@ nav_order: 10
 
 The View Panel is the four connected buttons in the lower left-hand corner of Argumentation.
 
-## Zoom in: 
+## Zoom in 
 
 The first button in it, the one with the plus sign on it, zooms in on your map, making it look bigger.
 
