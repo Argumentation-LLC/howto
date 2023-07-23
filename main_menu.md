@@ -1,7 +1,7 @@
 ---
 title: Main Menu
 layout: default
-nav_order: 10
+nav_order: 9
 ---
 
 # Main Menu Commands
