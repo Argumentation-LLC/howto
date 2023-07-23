@@ -6,11 +6,13 @@ nav_order: 6
 
 # Moving Boxes
 
+In Argumentation.io, you can move reason and objection boxes onto reason, objection, main contention, or inference boxes. Note that you can't move the main contention box, inference boxes, or group boxes.
+
 ## Moving a reason or objection box so that it’s below and linked to a desired box
 
 ### With a mouse:
 
-either drag and drop the box onto the desired box or 
+Drag and drop the box onto the desired box.
 
 ### With key commands:
 
