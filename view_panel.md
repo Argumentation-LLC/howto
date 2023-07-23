@@ -6,7 +6,7 @@ nav_order: 12
 
 # View Panel
 
-The View Panel is the four connected buttons in the lower left-hand corner of Argumentation.
+The View Panel is the four connected buttons in the lower left-hand corner of Argumentation. You can click on these buttons with your mouse or navigate to them with the tab key.
 
 ![The View Panel. It's four square buttons connected vertically to form a rectangle. In the top square there's a plus sign. In the next square, there's a minus sign. In the next square, there's a square with small circles over the corners. And in the bottom square, there are three connected quadrilaterals.](./images/View_Panel.png)
 
