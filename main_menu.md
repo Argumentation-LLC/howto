@@ -12,7 +12,7 @@ The main menu button is three horizontal lines in the upper left-hand corner of 
 
 To open it, click on it with your mouse or move your tab focus to it and then press enter. Once it's open, you can click on elements in it with your mouse or navigate to them with the Tab key.
 
-
+![The open Main Menu window. In the menu are the functions: New Map, Save, Save as, Load, Share, Logout, Save as .png, Save as .pdf, Contact, and Subscribe](./images/Main_Menu_Open.png)
 
 Here are the functions in the Main Menu:
 
