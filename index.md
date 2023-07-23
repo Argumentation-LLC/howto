@@ -10,4 +10,4 @@ nav_order: 0
 # Argumentation
 Thank you for using Argumentation.io! Argumentation.io is an app for creating, viewing, and sharing argument maps, sometimes known as argument diagrams or visualizations.
  
-This document contains instructions for Argumentation's controls and functions.
+This document contains instructions for Argumentation.io's controls and functions.
