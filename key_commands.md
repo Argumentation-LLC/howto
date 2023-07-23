@@ -6,6 +6,8 @@ nav_order: 7
 
 # Key Commands
 
+If you're using Argumentation.io with a screen reader, here are some tips on how to do so effectively.
+
 - Select main contention: SHIFT + ALT + M  
 - Add new Reason: SHIFT + ALT + R  
 - Add new Objection: SHIFT + ALT + O  
