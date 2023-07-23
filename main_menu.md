@@ -1,12 +1,12 @@
 ---
 title: Main Menu
 layout: default
-nav_order: 8
+nav_order: 9
 ---
 
 # Main Menu Commands
 
-The main menu button is three horizontal lines in the upper left-hand corner of Argumentation.
+The main menu button is three horizontal lines in the upper left-hand corner of Argumentation. To open it, click on it with your mouse or move your tab focus to it and then press enter. Once it's open, you can click on elements in it with your mouse or navigate to them with the Tab key.
 
 ## New Map 
 
