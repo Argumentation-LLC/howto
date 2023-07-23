@@ -8,6 +8,8 @@ nav_order: 9
 
 The main menu button is three horizontal lines in the upper left-hand corner of Argumentation. To open it, click on it with your mouse or move your tab focus to it and then press enter. Once it's open, you can click on elements in it with your mouse or navigate to them with the Tab key.
 
+Here are the functions in the Main Menu:
+
 ## New Map 
 
 Starts a new map in place of the one you’re currently working on.
