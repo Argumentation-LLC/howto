@@ -10,4 +10,4 @@ Argumentation lets you write in main contention, reason, objection, and inferenc
 
 To write in a box with a mouse, left-click inside it.
 
-To write in a box with a key command, select the box and press Shift+Alt+Enter.
+Or, to write in a box using key commands, select the desired box and press Shift+Alt+Enter.
