@@ -6,7 +6,7 @@ nav_order: 9
 
 # Main Menu Commands
 
-The main menu button is three horizontal lines in the upper left-hand corner of Argumentation.
+The main menu button is three horizontal lines in the upper left-hand corner of Argumentation:
 
 ![The Main Menu button. It's a square with three horizontal lines inside it](./images/Main_Menu_Icon.png)
 
