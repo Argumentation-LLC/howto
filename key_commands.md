@@ -23,4 +23,4 @@ nav_order: 7
 - Select previous sibling (move left): SHIFT + ALT + ←  
 - Toggle reason/objection: SHIFT + ALT + G  
 
-If you're using Argumentation.io with a screen reader, here are some tips on how to do so effectively.
+If you're using Argumentation.io with a screen reader, [here](https://argumentation-llc.github.io/howto/Screen_Readers.html) are some tips on how to do so effectively.
