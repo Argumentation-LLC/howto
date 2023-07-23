@@ -8,6 +8,8 @@ nav_order: 12
 
 The View Panel is the four connected buttons in the lower left-hand corner of Argumentation.
 
+![The View Panel. It's four square buttons connected vertically to form a rectangle. In the top square there's a plus sign. In the next square, there's a minus sign. In the next square, there's a square with small circles over the corners. And in the bottom square, there are three connected quadrilaterals.](./images/Main_Menu_Icon.png)
+
 ## Zoom in 
 
 The first button in it, the one with the plus sign on it, zooms in on your map, making it look bigger.
