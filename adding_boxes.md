@@ -22,6 +22,6 @@ To add co-premises in Argumentation:
 
 1. Select the desired reason or objection box.
 
-2. Click the ‘Add co-premise’ button in the control panel at the top of Argumentation or use the key command Alt+Shift+C. This adds another reason inside the reason group box of the selected reason or objection. It will appear, to the right of the one you selected when you used the add co-premise function.
+2. Click the ‘Add co-premise’ button in the control panel at the top of Argumentation or use the key command Alt+Shift+C. This adds another reason (or objection) inside the reason (or objection) group box of the selected reason or objection. It will appear, to the right of the one you selected when you used the add co-premise function.
 
-3. This co-premises looks and behaves just like any other reason. You can write in it, select it to add reasons or objections to, add co-premises to it, and move it around.
+3. This co-premises looks and behaves just like any other reason or objection. You can write in it, select it to add reasons or objections to, add co-premises to it, and move it around.
