@@ -15,6 +15,6 @@ This document contains instructions for [Argumentation.io](argumentation.io)'s c
 Here's video explainer of Argumentation.io's main features:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WZzKt-TC9WM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Here](https://docs.google.com/document/d/1T1fckzJmFMy0zPKjdOTD8zEzkMqoa7kwZrD06QrasjU/edit?usp=sharing) is a summary, with citations, of the benefits of argument-mapping-based courses.
+[Here](https://docs.google.com/document/d/1T1fckzJmFMy0zPKjdOTD8zEzkMqoa7kwZrD06QrasjU/edit?usp=sharing) is a summary of the research on the benefits of argument-mapping-based courses.
 
 If you'd like a demo of Argumentation.io, or if you'd like to consult with us about incorporating argument mapping into your course, click [here](https://meetings.hubspot.com/jsurovell) to schedule a meeting with us. Or write to jonathansurovell[at]gmail.com
