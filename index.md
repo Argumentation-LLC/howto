@@ -19,4 +19,4 @@ Here's a video explainer of Argumentation.io's main features:
 
 [Here](https://docs.google.com/document/d/1T1fckzJmFMy0zPKjdOTD8zEzkMqoa7kwZrD06QrasjU/edit?usp=sharing) is a summary of research on the benefits of argument-mapping-based courses.
 
-Click [here](https://meetings.hubspot.com/jsurovell) to schedule a demo or consultation with us. Or write to jonathansurovell[at]gmail.com
+Click [here](https://meetings.hubspot.com/jsurovell) to schedule a demo or to consult with us about incorporating argument mapping into your course. Or write to jonathansurovell[at]gmail.com
