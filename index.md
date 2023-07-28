@@ -14,7 +14,7 @@ nav_order: 0
  
 Please find instructions for [Argumentation.io](argumentation.io)'s controls and functions in the sidebar of this site.
 
-Here's a video explainer of Argumentation.io's main features:
+Here's a video explainer of [Argumentation.io](argumentation.io)'s main features:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WZzKt-TC9WM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Here](https://docs.google.com/document/d/1T1fckzJmFMy0zPKjdOTD8zEzkMqoa7kwZrD06QrasjU/edit?usp=sharing) is a summary of research on the benefits of argument-mapping-based courses.
