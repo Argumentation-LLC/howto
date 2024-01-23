@@ -16,7 +16,9 @@ With an Argumentation.io Subscription, you can save, share, and download your ma
 # Sharing
 Once you've saved a map, you can share it through a URL or web link. To do so, click Share, then copy the link.
 
+![Argumentation's Main Menu open and "Share" circled](./images/share.png)
+
 # Downloading
 You can download your map to your device as either a PNG (a kind of image file) or PDF (a kind of document file). Both options are in the Main Menu. When you click Save as png or Save as pdf, you'll get the opportunity to name the file and choose where you want to save it.
 
-![Argumentation's Main Menu open and "Save as" circled](./images/save-as-pdf-or-png.png)
+![Argumentation's Main Menu open and "Save as png" and "Save as pdf" circled](./images/save-as-pdf-or-png.png)
