@@ -6,7 +6,7 @@ nav_order: 15
 With an Argumentation.io Subscription, you can save, share, and download your maps. To use these functions, ensure that you're logged in with an account with a subscription. If you're logged in, you'll see your subscription email address in the upper right-hand corner, next to the Scratchpad icon.
 
 # Saving
-1. Click the Main Menu button (the button in the upper left-hand corner with the three horizontal lines on it).
+1. Click the Main Menu button (the button in the upper left-hand corner with the three horizontal lines on it). ![Argumentation's Main Menu icon circled and menu open](./images/Main_Menu_Open.png)
 2. Select Save as or Save.
 3. Choose a name for your map.
 4. Click Save.
