@@ -1,7 +1,7 @@
 ---
 title: Subscribing and Managing Your Subscription
 layout: default
-nav_order: 13
+nav_order: 14
 ---
 # Subscribing and Managing Your Subscription
 An Argumentation.io subscription allows you to save your maps in Argumentation.io, share URLs (web links) to them, download them as image or PDF files, and access learning materials.
