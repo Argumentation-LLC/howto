@@ -1,7 +1,7 @@
 ---
 title: Saving, Sharing, and Downloading
 layout: default
-nav_order: 6
+nav_order: 5
 ---
 With an Argumentation.io Subscription, you can save, share, and download your maps. To use these functions, ensure that you're logged in with an account with a subscription. If you're logged in, you'll see your subscription email address in the upper right-hand corner, next to the Scratchpad icon.
 
