@@ -1,7 +1,7 @@
 ---
 title: Canceling Your Subscription
 layout: default
-nav_order: 14
+nav_order: 15
 ---
 # Canceling Your Subscription
 
