@@ -1,7 +1,7 @@
 ---
 title: Saving, Sharing, and Downloading
 layout: default
-nav_order: 15
+nav_order: 6
 ---
 With an Argumentation.io Subscription, you can save, share, and download your maps. To use these functions, ensure that you're logged in with an account with a subscription. If you're logged in, you'll see your subscription email address in the upper right-hand corner, next to the Scratchpad icon.
 
@@ -11,14 +11,15 @@ With an Argumentation.io Subscription, you can save, share, and download your ma
 3. Choose a name for your map.
 4. Click Save.
 
-![Argumentation's Main Menu open and "Save as" circled](./images/save-as.png)
-
 # Sharing
-Once you've saved a map, you can share it through a URL or web link. To do so, click Share, then copy the link.
+Once you've saved a map, you can share it through a URL, also known as a web link. To do so, click the Main Menu, then Share, then copy the link.
 
-![Argumentation's Main Menu open and "Share" circled](./images/share.png)
+# Sharing Snapshot
+Once youv'e saved a map, you can share a "snapshot" of it. This is an image of your map that can be accessed through a link. It's an image file that you export and download to your device.
 
-# Downloading
-You can download your map to your device as either a PNG (a kind of image file) or PDF (a kind of document file). Both options are in the Main Menu. When you click Save as png or Save as pdf, you'll get the opportunity to name the file and choose where you want to save it.
+To share a snapshot of your map, click the Main Menu, then Share snapshot, then copy the link.
 
-![Argumentation's Main Menu open and "Save as png" and "Save as pdf" circled](./images/save-as-pdf-or-png.png)
+We designed the Share snapshot feature with online quizzes in learning management systems (LMSs) in mind. An quiz answer shared as a snapshot will generally by default be previewed by the LMS' grading tool, so the grader doesn't have to open anything or follow a link. At the same time, unlike uploaded images or files, snapshot links can't fail to upload before the student submits the quiz, thus eliminating a risk that comes with these other submission methods.
+
+# Exporting (and Downloading)
+You can export and download your map to your device as either a PNG (a kind of image file) or PDF (a kind of document file). Both options are in the Main Menu. When you click Save as png or Save as pdf, you'll get the opportunity to name the file and choose where you want to save it.
