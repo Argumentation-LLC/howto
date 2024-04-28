@@ -1,7 +1,7 @@
 ---
 title: Main Menu
 layout: default
-nav_order: 9
+nav_order: 10
 ---
 
 # Main Menu Commands
@@ -11,8 +11,6 @@ The main menu button is three horizontal lines in the upper left-hand corner of 
 ![The Main Menu button. It's a square with three horizontal lines inside it](./images/Main_Menu_Icon.png)
 
 To open it, click on it with your mouse or move your tab focus to it and then press enter. Once it's open, you can click on elements in it with your mouse or navigate to them with the Tab key.
-
-![The open Main Menu window. In the menu are the functions: New Map, Save, Save as, Load, Share, Logout, Save as .png, Save as .pdf, Contact, and Subscribe](./images/Main_Menu_Open.png)
 
 Here are the functions in the Main Menu:
 
@@ -34,6 +32,23 @@ Saves your map in your Argumentation account, so that you can load it later. “
 
 Lets you open maps you’ve saved in your Argumentation account. Clicking this button opens a window with a list of your saved maps. Clicking on one of these maps loads it. This window also lets you delete your saved maps.
 
+## Logout
+Logs you out of your account.
+
+## Export as .png
+
+Lets you export your map as a .png and download this to your computer. Clicking on this button will open a window that lets you choose a name for your file and a place on your computer to save it to.
+
+## Export as .pdf
+
+Lets you export your map as a .pdf and download this to your computer. Clicking on this button will open a window that lets you choose a name for your file and a place on your computer to save it to.
+
+## Share Snapshot
+
+Lets you share an image to your map, which will be created and stored online, with a link.
+
+To share a snapshot of a map, you need to have saved it. Clicking “Share snapshot” opens a window that gives you the option to copy a link to an image of your saved map. When someone follows this link, they’ll be taken to an online image of your map.
+
 ## Share
 
 To share a map, you need to have saved it. Clicking “Share” opens a window that gives you the option to copy a link to your saved map. When someone follows this link, they’ll be taken to your map on the Argumentation site.
@@ -41,14 +56,6 @@ To share a map, you need to have saved it. Clicking “Share” opens a window t
 ## Logout
 
 Logs you out of your Argumentation account.
-
-## Save as .png
-
-Lets you download a .png image file of your map to your computer. Clicking on this button will open a window that lets you choose a name for your file and a place on your computer to save it to.
-
-## Save as .pdf
-
-Lets you download a .pdf file of your map to your computer. Clicking on this button will open a window that lets you choose a name for your file and a place on your computer to save it to.
 
 ## Contact
 
