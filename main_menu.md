@@ -53,6 +53,12 @@ To share a snapshot of a map, you need to have saved it. Clicking “Share snaps
 
 To share a map, you need to have saved it. Clicking “Share” opens a window that gives you the option to copy a link to your saved map. When someone follows this link, they’ll be taken to your map on the Argumentation site.
 
+## Manage Account
+
+The "Manage Account" feature lets you manage your Argumentation.io subscription, update your Argumentation.io email address, or Reset your password. It also lets you know what kind of subscription you currently have, when you created your subscription, when your last invoice was sent (when you were last charged), and when your next invoice will be sent.
+
+If you click "Manage Subscription" from the "Manage Account" window, you'll be prompted to enter your subscription email address to receive a link to the customer portal. Following this link will allow you to update your subscription, including canceling it. Please note that you may have used a different email to subscribe than you used to initially create your Argumentation.io account.
+
 ## Logout
 
 Logs you out of your Argumentation account.
