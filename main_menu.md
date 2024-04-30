@@ -59,6 +59,12 @@ The "Manage Account" feature lets you manage your Argumentation.io subscription,
 
 If you click "Manage Subscription" from the "Manage Account" window, you'll be prompted to enter your subscription email address to receive a link to the customer portal. Following this link will allow you to update your subscription, including canceling it. Please note that you may have used a different email to subscribe than you used to initially create your Argumentation.io account.
 
+## Subscribe
+Please find instructions on subscribing [here](https://argumentation-llc.github.io/howto/Subscribing.html).
+
+## Redeem Code
+Please find instructions on Redeem Codes [here](https://argumentation-llc.github.io/howto/Subscribing.html).
+
 ## Contact
 
 Lets you send an email to Argumentation’s administrators. Use this function to ask us questions, report problems, or make suggestions.
