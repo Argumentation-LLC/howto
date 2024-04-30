@@ -18,17 +18,17 @@ You now have an Argumentation.io account that you can log in to with your chosen
 
 ## Subscribe
 
-4. Ensure that you're logged into your account.
-5. Click the Main Menu, then select Subscribe.
-6. You'll be taken to a page where you can see the available subscription plans. The different subscription plans are listed at the top of the page. Click on the one you're interested in. Then click Subscribe.
-7. You're now at the Checkout page. To purchase the subscription, enter your payment information.
-8. Now is also the time to enter a Promotion Code, if you have one. To enter it, click the phrase "promotion code." This opens up a field in which you can enter your code. Once you've entered it, click "Apply" within this field.
-9. With all the relevant information entered, click Subscribe.
+1. Ensure that you're logged into your account.
+2. Click the Main Menu, then select Subscribe.
+3. You'll be taken to a page where you can see the available subscription plans. The different subscription plans are listed at the top of the page. Click on the one you're interested in. Then click Subscribe.
+4. You're now at the Checkout page. To purchase the subscription, enter your payment information.
+5. Now is also the time to enter a Promotion Code, if you have one. To enter it, click the phrase "promotion code." This opens up a field in which you can enter your code. Once you've entered it, click "Apply" within this field.
+6. With all the relevant information entered, click Subscribe.
 
 ## Redeem Code
-4b. Ensure that you're logged into your account.
-5b. Click the Main Menu, then select Redeem Code.
-6b. When prompted, enter your redemption code.
+1. Ensure that you're logged into your account.
+2. Click the Main Menu, then select Redeem Code.
+3. When prompted, enter your redemption code.
 
 ## Manage or Cancel Your Subscription
 
