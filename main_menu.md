@@ -63,6 +63,12 @@ If you click "Manage Subscription" from the "Manage Account" window, you'll be p
 
 Lets you send an email to Argumentation’s administrators. Use this function to ask us questions, report problems, or make suggestions.
 
+## How To
+Clicking "How To" takes you to this site (the one you're reading right now). It contains explanations of all of Argumentation.io's features.
+
+## Textbook
+If you're subscribed to Argumentation.io, you can download a textbook, in PDF format, called *With Good Reason: An Introduction to Critical Thinking and Argument Mapping*, from the Main Menu. You can find more information about *With Good Reason* [here](https://sites.google.com/view/jonathanreidsurovell/with-good-reason?authuser=0).
+
 ## Subscribe
 
 Lets you choose a subscription plan for Argumentation. You need to be subscribed to save your maps.
