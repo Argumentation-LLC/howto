@@ -1,18 +1,20 @@
 ---
-title: Moving Boxes
+title: Moving Boxes aka Drag and Drop
 layout: default
 nav_order: 7
 ---
 
 # Moving Boxes
 
-In Argumentation.io, you can move reason and objection boxes onto reason, objection, main contention, or inference boxes. Note that you can't move the main contention box, inference boxes, or group boxes.
+In Argumentation.io, you can move, or "drag and drop," reason and objection boxes to connect them to different reason, objection, main contention, or inference boxes. Note that you can't move the main contention box, inference boxes, or group boxes.
+
+When you've dragged a box over your drop target, a yellow border will appear around the drop target.
 
 ## Moving a reason or objection box so that it’s below and linked to a desired box
 
 ### With a mouse:
 
-Drag and drop the box onto the desired box.
+Drag and drop the box onto the desired box. When you've dragged a box over your drop target, a yellow border will appear around the drop target.
 
 ### With key commands:
 
@@ -31,10 +33,12 @@ You can move a reason or objection into a reason or objection group, thus making
 1. Dragging it onto the top of the reason-group box, or
 2. Selecting the reason, using the “From” (Shift+Alt+F) function, navigating to the desired reason-group box with the Shift+Alt+arrow key commands, and then using the “To” function (Shift+Alt+T).
 
+When you see a yellow border around the *top* of the group box, dropping will add the moved box as a co-premise in that group.
+
 ## Changing the Order of Co-Premises
 ## With a mouse: 
 
-Drag the co-premise box that you want to move to the spot you want to move it to. For example, if you want it between claims A and B, drag the co-premise box between A and B. With the top of the group box highlighted, drop the box.
+Drag the co-premise box that you want to move to the spot you want to move it to, lifting it just above the other co-premise, so that the top of the group box becomes highlighted yellow. For example, if you want it between claims A and B, drag the co-premise box between A and B.
 
 ## With key commands:
 
