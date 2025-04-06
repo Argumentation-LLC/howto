@@ -5,8 +5,7 @@ nav_order: 0
 ---
 
 
-{: .text-center }
-[![The Argumentation logo: Three stacked 'A's in yellow, blue, and red](./images/logo_full.png)](http://argumentation.io){: width="5%" }
+[![The Argumentation logo: Three stacked 'A's in yellow, blue, and red](./images/logo_full.png)](http://argumentation.io){: width="50%" .text-center }
 
 # Argumentation
 [Argumentation.io](http://argumentation.io) is an app for creating, viewing, and sharing argument maps, sometimes known as argument diagrams or visualizations.
