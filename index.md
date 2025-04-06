@@ -7,7 +7,7 @@ nav_order: 0
 
 <div class="text-center" style="margin: 1em 0;">
   <a href="http://argumentation.io">
-    <img src="./images/logo_full.png" alt="Argumentation logo" style="width: 50%; height: auto;" />
+    <img src="./images/LogoSmall.png" alt="Argumentation logo" style="width: 50%; height: auto;" />
   </a>
 </div>
 
