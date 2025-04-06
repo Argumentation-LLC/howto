@@ -6,3 +6,13 @@ url: https://Argumentation-LLC.github.io/howto
 
 aux_links:
   Argumentation.io: https://www.argumentation.io
+
+markdown: kramdown
+
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  enable_coderay: false
