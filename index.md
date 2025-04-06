@@ -5,7 +5,11 @@ nav_order: 0
 ---
 
 
-[![Argumentation logo](./images/logo_full.png)](http://argumentation.io){:width="50%".text-center }
+<div class="text-center" style="margin: 1em 0;">
+  <a href="http://argumentation.io">
+    <img src="./images/logo_full.png" alt="Argumentation logo" style="width: 50%; height: auto;" />
+  </a>
+</div>
 
 # Argumentation
 [Argumentation.io](http://argumentation.io) is an app for creating, viewing, and sharing argument maps, sometimes known as argument diagrams or visualizations.
