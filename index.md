@@ -7,9 +7,8 @@ nav_order: 0
 
 <div style="text-align: center;">
   <a href="http://argumentation.io">
-    <img src="./images/logo_full.png" alt="Argumentation logo" style="width: 50%; border: 2px solid #eee;" />
+    <img src="./images/logo_full.png" alt="The Argumentation logo: Three stacked 'A's in yellow, blue, and red" width="50%" />
   </a>
-  <p style="font-style: italic;">The Argumentation logo</p>
 </div>
 
 # Argumentation
