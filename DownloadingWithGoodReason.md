@@ -1,9 +1,9 @@
 ---
-title: Downloading *With Good Reason*
+title: Download *With Good Reason*
 layout: default
 nav_order: 15
 ---
-# Downloading *With Good Reason*
+# Download *With Good Reason*
 
 You can download *With Good Reason: An Introduction to Critical Thinking and Argument Mapping* with a subscription or redemption code. [Here are instructions](https://argumentation-llc.github.io/howto/Subscribing.html) on redeeming codes and subscribing.
 
