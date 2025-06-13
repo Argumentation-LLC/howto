@@ -10,7 +10,5 @@ You can download *With Good Reason: An Introduction to Critical Thinking and Arg
 Once you've redeemed your code or subscribed, download *With Good Reason* as a PDF by following these steps:
 
 1. Open the Main Menu (the three horizontal lines in the upper left hand corner).
-
 2. Select "Textbook" from the menu.
-
 3. Choose a location on your device to download the PDF to.
