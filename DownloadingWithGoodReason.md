@@ -5,7 +5,7 @@ nav_order: 15
 ---
 # Download *With Good Reason*
 
-You can download *With Good Reason: An Introduction to Critical Thinking and Argument Mapping* with a subscription or redemption code. [Here are instructions](https://argumentation-llc.github.io/howto/Subscribing.html) on redeeming codes and subscribing.
+You can download *With Good Reason: An Introduction to Critical Thinking and Argument Mapping* with an [argumentation.io](jttps://argumentation.io) redemption code or subscription. [Here are instructions](https://argumentation-llc.github.io/howto/Subscribing.html) on redeeming codes and subscribing.
 
 Once you've redeemed your code or subscribed, download *With Good Reason* as a PDF by following these steps:
 
