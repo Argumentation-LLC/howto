@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 0
 ---
-
+<p>
 <a href="http://argumentation.io">
   <img
     src="./images/LogoSmall.png"
@@ -11,6 +11,7 @@ nav_order: 0
     style="width:100px; max-width:100%; height:auto;"
   >
 </a>
+</p>
 
 # Argumentation
 [Argumentation.io](http://argumentation.io) is an app for creating, viewing, and sharing argument maps, sometimes known as argument diagrams or visualizations.
