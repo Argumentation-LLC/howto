@@ -3,7 +3,7 @@ title: Subscribing, Redeeming Codes, and Managing Your Subscription
 layout: default
 nav_order: 14
 ---
-# Subscribing and Managing Your Subscription
+# Subscribing, Redeeming Codes, and Managing Your Subscription
 An Argumentation.io subscription or code redemption allows you to save your maps in Argumentation.io, share URLs (web links) to them, export/download them as image or PDF files, and access learning materials.
 
 To subscribe to Argumentation.io or use a redemption code, first create an Argumentation.io account. Then, while logged in to your account, select "Subscribe" or "Redeem code" from the "Main Menu" and choose your desired subscription option. Below, we go through these steps in more detail.
