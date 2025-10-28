@@ -9,7 +9,7 @@ nav_order: 0
     <img
       src="./images/LogoSmall.png"
       alt="The Argumentation logo. It's three upper-case 'A's stacked partially on top of each other. There's a yellow one, a blue one, and a red one."
-      style="width:400px; max-width:100%; height:auto;"
+      style="width:100px; max-width:100%; height:auto;"
     >
   </a>
 </p>
