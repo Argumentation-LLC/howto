@@ -1,27 +1,42 @@
 ---
 title: Adding Boxes
 layout: default
+parent: Create and Edit Maps
 nav_order: 2
 ---
 
 # Adding Boxes
 
-## Adding Reasons and Objections
+Argumentation.io maps can contain main contention, reason, objection, other, inference, and group boxes. Inference and group boxes are created automatically when needed.
 
-To add a reason box below and connected to a desired box, select the desired box and either use the Add reason button in the control panel at the top of Argumentation.io (the button with the green plus sign inside the circle) or press Shift+Alt+R. [Here](https://argumentation-llc.github.io/howto/selecting_boxes_and_navigating.html) are instructions on selecting a desired box.
+![An argument map demonstrating the principal box types. A blue main contention is at the top. Beneath it are green and red inference boxes. Two green reason boxes share a reason group, two red objection boxes share an objection group, and a grey other box appears in its own group.](./images/map-with-box-types.png)
 
-When you add a reason, it automatically comes with two objects between it and the box you had selected when you added it. These two objects are the inference node and the reason group box. For example, if you had the main contention selected when you added a reason, an inference node will be added below the main contention, and a reason group box below that, and then the reason you added will be inside this box.
+## Add a reason or objection
 
-When you add a reason, it will be automatically selected.
+1. Select the box that the new reason or objection will support or challenge.
+2. To add a reason, select **Add reason** in the toolbar. On Windows, you can instead press `Shift+Alt+R`; on Mac, press `Shift+Option+R`.
+3. To add an objection, select **Add objection**. On Windows, you can instead press `Shift+Alt+O`; on Mac, press `Shift+Option+O`.
 
-Objections work the same way. The Add objection button is also in the control panel at the top of the Argumentation workspace (the button's icon is a red line inside a red circle). The key command to add an objection is Shift+Alt+O.
+Argumentation.io adds the appropriate inference and group boxes between the selected box and the new reason or objection. The new box is selected automatically.
 
-## Adding Co-Premises
+## Add an other box
 
-To add co-premises in Argumentation:
+Other boxes can represent questions, intermediate responses, labels, or material that is not functioning as a reason or objection.
 
-1. Select the desired reason or objection box.
+1. Select the box beneath which you want to add the other box.
+2. Select **Add other** in the toolbar. On Windows, you can instead press `Shift+Alt+Q`; on Mac, press `Shift+Option+Q`.
 
-2. Click the Add co-premise button in the control panel (the one with the black plus sign inside the black circle) at the top of Argumentation or use the key command Alt+Shift+C. This adds another reason (or objection) inside the reason (or objection) group box of the selected reason or objection. It will appear, to the right of the one you selected when you used the add co-premise function.
+Reasons and objections can be added beneath an other box, and other boxes can be added beneath reasons and objections. Other boxes can also be moved and used as co-premises.
 
-3. This co-premises looks and behaves just like any other reason or objection. You can write in it, select it to add reasons or objections to, add co-premises to it, and move it around.
+## Add a co-premise
+
+1. Select a reason, objection, or other box in a group.
+2. Select **Add co-premise** in the toolbar. On Windows, you can instead press `Shift+Alt+C`; on Mac, press `Shift+Option+C`.
+
+The new co-premise appears in the same group, to the right of the selected box. It has the same type as the selected box. You can write in it, add boxes beneath it, add further co-premises, and move it.
+
+## Add another main contention
+
+Select **Add main contention** in the toolbar. The new main contention begins a separate argument tree and appears to the right of the current rightmost tree.
+
+For more information, see [Create Multiple Trees](./multiple-trees.html).

@@ -1,80 +1,140 @@
 ---
 title: Main Menu
 layout: default
-nav_order: 10
+parent: Getting Started
+nav_order: 2
 ---
 
-# Main Menu Commands
+# Main Menu
 
-The main menu button is three horizontal lines in the upper left-hand corner of Argumentation:
+The **Main Menu** button, represented by three horizontal lines, is in the upper-left corner of the Argumentation.io workspace.
 
 ![The Main Menu button. It's a square with three horizontal lines inside it](./images/Main_Menu_Icon.png)
 
-To open it, click on it with your mouse or move your tab focus to it and then press enter. Once it's open, you can click on elements in it with your mouse or navigate to them with the Tab key.
+Select the button to open the menu. With a keyboard:
 
-Here are the functions in the Main Menu:
+1. Use `Tab` or `Shift+Tab` to move focus to **Main Menu**.
+2. Press `Enter` to open the menu.
+3. Press `Tab` to move focus to the first menu command.
+4. Use the Up and Down arrow keys to move among the commands.
+5. Press `Enter` to activate the selected command.
 
-## New Map 
+The commands available depend on whether you are signed in, whether your account has saving access, and whether you are a student or have instructor features enabled.
+
+## Map commands
+
+### New Map 
 
 Starts a new map in place of the one you’re currently working on.
 
-## Save
+### Save
 
-Saves any changes you’ve made to your map. You need to be logged in and subscribed to save a map. Saved maps are stored in your Argumentation account.
+Saves changes to the current map. Saving requires an account with an individual subscription, a redeemed code, or institutional access. Saved maps are stored in your Argumentation.io account.
 
-If you’re saving a map for the first time, “Save” will open a window that will let you choose a name for your map.
+If the map has not been saved before, **Save** opens a window in which you can name it.
 
-## Save as
+### Save as
 
-Saves your map in your Argumentation account, so that you can load it later. “Save as” lets you name your map. You need to be logged in and subscribed to use the “Save as” function.
+Saves the current map under a name you choose. Use **Save as** to create a separately saved map. Saving access is required.
 
-## Load
+### Load
 
-Lets you open maps you’ve saved in your Argumentation account. Clicking this button opens a window with a list of your saved maps. Clicking on one of these maps loads it. This window also lets you delete your saved maps.
+Opens a list of the maps saved in your account. From this window, you can load or delete a saved map.
 
-## Logout
+## Student commands
+
+### My Assignments
+
+Opens the assignments available to you, together with their due dates, status, attempts, and scores.
+
+## Instructor commands
+
+These commands appear after instructor features have been enabled.
+
+### Save as Question
+
+Saves the current map and Scratchpad content as a question.
+
+### Questions
+
+Opens your saved questions and solutions.
+
+### Banks
+
+Opens your question banks.
+
+### Quizzes
+
+Opens your quizzes and the questions and banks that can be added to them.
+
+### Classes
+
+Opens your classes, student lists, teaching assistants, and class assignments.
+
+### Assignments
+
+Opens the assignment-management window.
+
+### Grading
+
+Opens submitted assignments for grading and feedback.
+
+## Sharing and exporting commands
+
+### Export as .png
+
+Downloads the map to your device as a PNG image file.
+
+### Export as .pdf
+
+Downloads the map to your device as a PDF file.
+
+### Share snapshot
+
+Creates a link to a view-only image of a saved map.
+
+### Share
+
+Opens a window from which you can copy a link to a saved map.
+
+The recipient can navigate and edit the loaded map, but their changes do not affect your saved map. A recipient with saving access can save the resulting map to their own account.
+
+### Enable Collaboration
+
+Turns on real-time collaboration and automatic saving for a saved map. Use **Share** afterward to copy the collaboration link.
+
+When collaboration is enabled, this command becomes **Disable Collaboration**. Guests collaborating on someone else's map instead see **Save as copy**.
+
+## Account and help commands
+
+### Logout
+
 Logs you out of your account.
 
-## Export as .png
+### Manage Account
 
-Lets you export your map as a .png and download this to your computer. Clicking on this button will open a window that lets you choose a name for your file and a place on your computer to save it to.
+Opens account information and commands for updating your email address, resetting your password, enabling instructor features, and managing your subscription.
 
-## Export as .pdf
+Selecting **Manage Subscription** prompts you to enter the email address associated with your subscription. Argumentation.io sends that address a link to the customer portal, where you can update or cancel the subscription and review invoices.
 
-Lets you export your map as a .pdf and download this to your computer. Clicking on this button will open a window that lets you choose a name for your file and a place on your computer to save it to.
+Your subscription email may differ from your Argumentation.io account email. When you subscribe, Stripe asks you to enter an email address; the address entered there becomes the email associated with the subscription. Use that address when requesting the customer-portal link.
 
-## Share Snapshot
+### Subscribe
 
-Lets you share an image to your map, which will be created and stored online, with a link.
+Opens the available Argumentation.io subscription options.
 
-To share a snapshot of a map, you need to have saved it. Clicking “Share snapshot” opens a window that gives you the option to copy a link to an image of your saved map. When someone follows this link, they’ll be taken to an online image of your map.
+### Redeem Code
 
-## Share
+Allows you to enter an Argumentation.io redemption code.
 
-To share a map, you need to have saved it. Clicking “Share” opens a window that gives you the option to copy a link to your saved map. When someone follows this link, they’ll be taken to your map on the Argumentation site.
+### Contact
 
-## Manage Account
+Opens an email to Argumentation.io. Use it to ask questions, report problems, or make suggestions.
 
-The "Manage Account" feature lets you manage your Argumentation.io subscription, update your Argumentation.io email address, or Reset your password. It also lets you know what kind of subscription you currently have, when you created your subscription, when your last invoice was sent (when you were last charged), and when your next invoice will be sent.
+### How To
 
-If you click "Manage Subscription" from the "Manage Account" window, you'll be prompted to enter your subscription email address to receive a link to the customer portal. Following this link will allow you to update your subscription, including canceling it. Please note that you may have used a different email to subscribe than you used to initially create your Argumentation.io account.
+Opens this documentation site.
 
-## Subscribe
-Please find instructions on subscribing [here](https://argumentation-llc.github.io/howto/Subscribing.html).
+### Textbook
 
-## Redeem Code
-Please find instructions on Redeem Codes [here](https://argumentation-llc.github.io/howto/Subscribing.html).
-
-## Contact
-
-Lets you send an email to Argumentation’s administrators. Use this function to ask us questions, report problems, or make suggestions.
-
-## How To
-Clicking "How To" takes you to this site (the one you're reading right now). It contains explanations of all of Argumentation.io's features.
-
-## Textbook
-If you're subscribed to Argumentation.io, you can download a textbook, in PDF format, called *With Good Reason: An Introduction to Critical Thinking and Argument Mapping*, from the Main Menu. You can find more information about *With Good Reason* [here](https://sites.google.com/view/jonathanreidsurovell/with-good-reason?authuser=0).
-
-## Subscribe
-
-Lets you choose a subscription plan for Argumentation. You need to be subscribed to save your maps.
+Downloads *With Good Reason: An Introduction to Critical Thinking and Argument Mapping* as a PDF. An individual subscription, institutional access, or redeemed Argumentation.io code is required.

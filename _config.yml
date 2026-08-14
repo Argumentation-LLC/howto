@@ -1,11 +1,23 @@
-title: Argumentation.io Howto
-description: An online argument mapping tool.
+title: Argumentation.io How-To
+description: Instructions for creating, editing, sharing, and assessing argument maps with Argumentation.io.
 theme: just-the-docs
 
 url: https://Argumentation-LLC.github.io/howto
 
 aux_links:
-  Argumentation.io: https://www.argumentation.io
+  Argumentation.io:
+    - https://argumentation.io
+
+aux_links_new_tab: true
+
+search_enabled: true
+
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  rel_url: true
 
 markdown: kramdown
 

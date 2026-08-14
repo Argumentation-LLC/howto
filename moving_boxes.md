@@ -1,53 +1,64 @@
 ---
-title: Moving Boxes aka Drag and Drop
+title: Moving Boxes
 layout: default
-nav_order: 7
+parent: Create and Edit Maps
+nav_order: 5
 ---
 
 # Moving Boxes
 
-In Argumentation.io, you can move, or "drag and drop," reason and objection boxes to connect them to different reason, objection, main contention, or inference boxes. Note that you can't move the main contention box, inference boxes, or group boxes.
+In Argumentation.io, you can move reason and objection boxes to connect them to different reason, objection, main contention, or inference boxes. You cannot move main contention, inference, or group boxes.
 
-When you've dragged a box over your drop target, a yellow border will appear around the drop target.
+When you drag a box over a valid destination, a yellow border appears around the destination.
 
-## Moving a reason or objection box so that it’s below and linked to a desired box
+## Move a reason or objection beneath another box
 
-### With a mouse:
+### With a mouse
 
-Drag and drop the box onto the desired box. When you've dragged a box over your drop target, a yellow border will appear around the drop target.
+Drag the reason or objection onto the desired box. When the yellow border appears around the destination, drop the box.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RunFG4CAx6E?si=Uz1zArdXhwkqwByX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![A reason box labeled C being dragged over a reason box labeled A. A yellow border marks A as the drop target.](./images/drag-and-drop-target.png)
 
-### With key commands:
+*The yellow border identifies the box that will receive the moved branch.*
 
-1. Select the desired reason or objection.
-2. Use the “From” command (Shift+Alt+F).
-3. Use the Shift+Alt+arrow keys to navigate to the box you want to move the reason or objection below.
-3. Use the “To” command (Shift+Alt+T) to move the reason or objection below the selected box. The reason or objection’s node and group box will come with it and go between it and the selected box.
-Voilà!
+![The completed argument map after reason C has been moved beneath reason A.](./images/drag-and-drop-completed.png)
 
-If you’re moving a box that has other boxes below and linked with it, those boxes will move along with it, no matter how complex a branch they form.
+*After the box is dropped, it and the boxes beneath it move to their new position in the argument.*
 
-Reason and objection boxes can be moved so that they’re below and linked to reason, objection, main contention, or inference boxes.
+<iframe width="560" height="315" style="width:100%; max-width:560px; aspect-ratio:16/9;" src="https://www.youtube.com/embed/RunFG4CAx6E?si=Uz1zArdXhwkqwByX" title="Demonstration of moving a box with a mouse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Moving Boxes into Co-Premise Position
-You can move a reason or objection into a reason or objection group, thus making it a co-premise with whatever else is in that group, by either
-1. Dragging it onto the top of the reason-group box and then dropping it, or
-2. Selecting the reason, using the “From” (Shift+Alt+F) function, navigating to the desired reason-group box with the Shift+Alt+arrow key commands, and then using the “To” function (Shift+Alt+T).
+### With a keyboard
 
-When you see a yellow border around the *top* of the group box, dropping will add the moved box as a co-premise in that group.
+1. Select the reason or objection you want to move.
+2. Press `Shift+Alt+F` on Windows or `Shift+Option+F` on Mac to mark it as the move source.
+3. Use the map-navigation commands to select the destination.
+4. Press `Shift+Alt+E` on Windows or `Shift+Option+E` on Mac to complete the move.
 
-Here's a video demonstration of drag and drop with the mouse:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hgp_ILsDCAw?si=QzE6pkgFf5qsApw1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+The selected box's inference and group boxes, along with everything beneath it, move with it.
 
-## Changing the Order of Co-Premises
-## With a mouse: 
+## Move a box into a co-premise group
 
-Drag the co-premise box that you want to move to the spot you want to move it to, lifting it just above the other co-premise, so that the top of the group box becomes highlighted yellow. For example, if you want it between claims A and B, drag the co-premise box between A and B.
+To make a reason or objection a co-premise, either:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p-ykvwGcFJg?si=0hFu6kkGLlaTzJF6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- Drag it over the top of the desired reason or objection group and drop it when the yellow border appears around the top of the group; or
+- Select it, mark it as the move source, navigate to the desired group box, and use the execute-move command.
 
-## With key commands:
+The keyboard commands are `Shift+Alt+F` followed by `Shift+Alt+E` on Windows, or `Shift+Option+F` followed by `Shift+Option+E` on Mac.
 
-To move a co-premise box to the right of the box currently to its right, select it and then click Shift+Alt+N.
-To move a co-premise box to the left of the box currently to its left, select it and then click Shift+Alt+B
+The following video demonstrates the mouse procedure:
+
+<iframe width="560" height="315" style="width:100%; max-width:560px; aspect-ratio:16/9;" src="https://www.youtube.com/embed/Hgp_ILsDCAw?si=QzE6pkgFf5qsApw1" title="Demonstration of moving a box into a co-premise group" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Change the order of co-premises
+
+### With a mouse
+
+Drag the co-premise to the desired position. Move it just above the adjacent co-premise until the top of the group is highlighted in yellow, then drop it.
+
+<iframe width="560" height="315" style="width:100%; max-width:560px; aspect-ratio:16/9;" src="https://www.youtube.com/embed/p-ykvwGcFJg?si=0hFu6kkGLlaTzJF6" title="Demonstration of changing the order of co-premises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### With a keyboard
+
+To move a co-premise one position to the right, select it and press `Shift+Alt+N` on Windows or `Shift+Option+N` on Mac.
+
+To move a co-premise one position to the left, select it and press `Shift+Alt+B` on Windows or `Shift+Option+B` on Mac.
