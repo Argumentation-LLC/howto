@@ -1,12 +1,22 @@
 ---
 title: Selecting Boxes and Navigating Your Map
 layout: default
+parent: Create and Edit Maps
 nav_order: 3
 ---
 # Selecting Boxes and Navigating Your Map
 
-You can select any box in your Argumentation map by clicking on it with the mouse.
+You can select any box in an Argumentation.io map by selecting it with a mouse or touchscreen.
 
-Alternatively, you can select the box above, below, to the right of, or to the left of your current selection by using the key commands Shift+Alt+↑, Shift+Alt+↓, Shift+Alt+→, and Shift+Alt+←. 
+## Navigate with a keyboard
 
-Other buttons on your keyboard, like Tab, will change what you have selected. However, we strongly recommend using Argumentation’s commands of the form Shift+Alt+arrow key when you’re working on your map. These commands give you a greater ability to navigate your map according to different aspects of its logic.
+On Windows, use `Shift+Alt` with the arrow keys. On Mac, use `Shift+Option` with the arrow keys:
+
+- Up arrow: select the parent
+- Down arrow: select the first child
+- Right arrow: select the next sibling
+- Left arrow: select the previous sibling
+
+These commands follow the logical structure of the map. The `Tab` key moves among interactive interface elements and does not necessarily follow the map's logical structure.
+
+To move among the main contentions of a map containing multiple trees, press `Shift+Alt+M` on Windows or `Shift+Option+M` on Mac.

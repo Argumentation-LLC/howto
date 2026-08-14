@@ -1,11 +1,23 @@
 ---
-title: Canceling Your Subscription
+title: Manage or Cancel Your Subscription
 layout: default
-nav_order: 16
+parent: Account and Resources
+nav_order: 3
 ---
-# Canceling Your Subscription
 
-1. Click the Main Menu, then select Manage Account.
-2. You'll be asked for your email address in a new window. Enter your account email address. You'll get an email with a link to your "customer portal."
-3. Go to your email inbox and follow the link to the customer portal.
-4. At the customer portal, you'll be able to cancel your plan, change your payment information, change your payment method, and see your invoice history.
+# Manage or Cancel Your Subscription
+
+Use the customer portal to cancel a subscription, update payment information or the payment method, and review invoices.
+
+1. Sign in to Argumentation.io.
+2. Open **Main Menu** and select **Manage Account**.
+3. Select **Manage Subscription**.
+4. Enter the email address associated with your subscription.
+5. Open the email from Argumentation.io and follow its link to the customer portal.
+6. Use the portal to make the required change.
+
+## Use the correct email address
+
+Your subscription email may differ from your Argumentation.io account email. When you subscribe, Stripe asks you to enter an email address; the address entered there becomes the email associated with the subscription.
+
+If the expected customer-portal email does not arrive, try the address you entered during checkout and check its spam or junk folder.

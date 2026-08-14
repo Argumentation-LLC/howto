@@ -4,27 +4,37 @@ layout: home
 nav_order: 0
 ---
 <p>
-<a href="http://argumentation.io">
+<a href="https://argumentation.io">
   <img
     src="./images/LogoSmall.png"
-    alt="The Argumentation logo. It's three upper-case 'A's stacked partially on top of each other. There's a yellow one, a blue one, and a red one."
+    alt="Argumentation.io"
     style="width:100px; max-width:100%; height:auto;"
   >
 </a>
 </p>
 
-# Argumentation
-[Argumentation.io](http://argumentation.io) is an app for creating, viewing, and sharing argument maps, sometimes known as argument diagrams or visualizations.
+# Argumentation.io Documentation
 
-Here's a video explainer of [Argumentation.io](http://argumentation.io)'s main features:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WZzKt-TC9WM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Argumentation.io](https://argumentation.io) is an application for creating, editing, saving, sharing, and assessing argument maps. Argument maps represent claims as boxes and show logical relationships with connecting lines.
 
-[Click here](http://argumentation.io) to start using Argumentation.io.
+Use the navigation to learn how to:
 
-[Click here](http://landing.argumentation.io/) for more information on how Argumentation.io works, the benefits of argument mapping, and how we're making it easier for teachers to incorporate it into their courses.
- 
-Please find instructions for [Argumentation.io](http://argumentation.io)'s controls and functions in the sidebar of this site.
+- Get started with the workspace and Main Menu
+- Create and edit argument maps
+- Save, share, collaborate on, and export maps
+- Navigate and adjust your view
+- Use Argumentation.io with a keyboard or screen reader
+- Create classes, questions, quizzes, and assignments
+- Manage access, subscriptions, and educational resources
 
-[Here](https://docs.google.com/document/d/1T1fckzJmFMy0zPKjdOTD8zEzkMqoa7kwZrD06QrasjU/edit?usp=sharing) is a summary of research on the benefits of argument-mapping-based courses.
+## Learn more or get help
 
-Click [here](https://meetings.hubspot.com/jsurovell) to schedule a demo or to consult with us about incorporating argument mapping into your course. Or write to jonathansurovell[at]gmail.com
+- [Open Argumentation.io](https://argumentation.io)
+- [Learn how Argumentation.io works](https://landing.argumentation.io/)
+- [Read a summary of research on argument-mapping-based courses](https://docs.google.com/document/d/1T1fckzJmFMy0zPKjdOTD8zEzkMqoa7kwZrD06QrasjU/edit?usp=sharing)
+- [Schedule a demonstration or consultation](https://meetings.hubspot.com/jsurovell)
+- Email [argumentationcompany@gmail.com](mailto:argumentationcompany@gmail.com) with questions, problems, or suggestions
+
+## Video introduction
+
+<iframe width="560" height="315" style="width:100%; max-width:560px; aspect-ratio:16/9;" src="https://www.youtube.com/embed/WZzKt-TC9WM" title="Introduction to Argumentation.io" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

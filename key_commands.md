@@ -1,45 +1,54 @@
 ---
-title: Key Commands
+title: Keyboard Commands
 layout: default
-nav_order: 8
+parent: Accessibility and Keyboard Use
+nav_order: 1
 ---
 
-# Key Commands
-## For Windows:
-- Select main contention: SHIFT + ALT + M
-- Add new Reason: SHIFT + ALT + R
-- Add new Objection: SHIFT + ALT + O
-- Add new Co-premise: SHIFT + ALT + C
-- Enter or exit text edit mode: SHIFT + ALT + Enter
-- Delete node: SHIFT + ALT + D
-- Select move source (from): SHIFT + ALT + F
-- Execute move to destination (execute): SHIFT + ALT + E
-- Move co-premise left: SHIFT + ALT + B
-- Move co-premise right: SHIFT + ALT + N
-- Open or close Scratch Pad: SHIFT + ALT + S
-- Select parent (move up): SHIFT + ALT + ↑
-- Select first child (move down): SHIFT + ALT + ↓
-- Select next sibling (move right): SHIFT + ALT + →
-- Select previous sibling (move left): SHIFT + ALT + ←
-- Toggle reason/objection: SHIFT + ALT + G
+# Keyboard Commands
 
-## For Mac:
-- Select main contention: SHIFT + OPTION + M
-- Add new Reason: SHIFT + OPTION + R
-- Add new Objection: SHIFT + OPTION + O
-- Add new Co-premise: SHIFT + OPTION + C
-- Enter or exit text edit mode: SHIFT + OPTION + Enter
-- Delete node: SHIFT + OPTION + D
-- Select move source (from): SHIFT + OPTION + F
-- Execute move to destination (execute): SHIFT + OPTION + E
-- Move co-premise left: SHIFT + OPTION + B
-- Move co-premise right: SHIFT + OPTION + N
-- Open or close Scratch Pad: SHIFT + OPTION + S
-- Select parent (move up): SHIFT + OPTION + ↑
-- Select first child (move down): SHIFT + OPTION + ↓
-- Select next sibling (move right): SHIFT + OPTION + →
-- Select previous sibling (move left): SHIFT + OPTION + ←
-- Toggle reason/objection: SHIFT + OPTION + G
+The keyboard commands below work while you are using the map workspace. You can also open an in-app list by selecting **Key commands** in the toolbar.
 
+## Navigate the map
 
-If you're using Argumentation.io with a screen reader, [here](https://argumentation-llc.github.io/howto/Screen_Readers.html) are some tips on how to do so effectively.
+| Action | Windows | Mac |
+| --- | --- | --- |
+| Select the parent | `Shift+Alt+Up arrow` | `Shift+Option+Up arrow` |
+| Select the first child | `Shift+Alt+Down arrow` | `Shift+Option+Down arrow` |
+| Select the next sibling | `Shift+Alt+Right arrow` | `Shift+Option+Right arrow` |
+| Select the previous sibling | `Shift+Alt+Left arrow` | `Shift+Option+Left arrow` |
+| Cycle among main contentions | `Shift+Alt+M` | `Shift+Option+M` |
+
+## Add or change boxes
+
+| Action | Windows | Mac |
+| --- | --- | --- |
+| Add a reason | `Shift+Alt+R` | `Shift+Option+R` |
+| Add an objection | `Shift+Alt+O` | `Shift+Option+O` |
+| Add an other box | `Shift+Alt+Q` | `Shift+Option+Q` |
+| Add a co-premise | `Shift+Alt+C` | `Shift+Option+C` |
+| Enter or leave text-editing mode | `Shift+Alt+Enter` | `Shift+Option+Enter` |
+| Delete the selected box or branch | `Shift+Alt+D` | `Shift+Option+D` |
+| Cycle among reason, objection, and other | `Shift+Alt+G` | `Shift+Option+G` |
+| Open the Tag menu | `Shift+Alt+T` | `Shift+Option+T` |
+
+## Move boxes
+
+| Action | Windows | Mac |
+| --- | --- | --- |
+| Mark the selected box as the move source | `Shift+Alt+F` | `Shift+Option+F` |
+| Move the source to the selected destination | `Shift+Alt+E` | `Shift+Option+E` |
+| Move a co-premise one position left | `Shift+Alt+B` | `Shift+Option+B` |
+| Move a co-premise one position right | `Shift+Alt+N` | `Shift+Option+N` |
+
+For the complete procedure, including how to choose a valid destination, see [Moving Boxes](./moving_boxes.html).
+
+## Other commands
+
+| Action | Windows | Mac |
+| --- | --- | --- |
+| Open or close the Scratchpad | `Shift+Alt+S` | `Shift+Option+S` |
+| Undo your most recent change | `Ctrl+Z` | `Command+Z` |
+| Redo your most recently undone change | `Ctrl+Y` | `Shift+Command+Z` |
+
+For guidance on using these commands with assistive technology, see [Use Argumentation.io with a Screen Reader](./Screen_Readers.html).

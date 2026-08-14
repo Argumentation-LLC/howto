@@ -1,27 +1,30 @@
 ---
-title: View Panel
+title: Use the View Panel
 layout: default
-nav_order: 13
+parent: Navigate and Adjust Your View
+nav_order: 2
 ---
 
-# View Panel
+# Use the View Panel
 
-The View Panel is the four connected buttons in the lower left-hand corner of Argumentation. You can click on these buttons with your mouse or navigate to them with the tab key.
+The View Panel is a vertical group of four controls in the lower-left corner of the Argumentation.io workspace. Select the controls with a mouse, or use `Tab` and `Shift+Tab` to move keyboard focus to and through them.
 
-![The View Panel. It's four square buttons connected vertically to form a rectangle. In the top square there's a plus sign. In the next square, there's a minus sign. In the next square, there's a square with small circles over the corners. And in the bottom square, there are three connected quadrilaterals.](./images/View_Panel.png)
+![The View Panel, with four vertically arranged controls for zooming in, zooming out, fitting the map to the available space, and showing or hiding the mini-map.](./images/View_Panel.png)
 
-## Zoom in 
+## Zoom in
 
-The first button in it, the one with the plus sign on it, zooms in on your map, making it look bigger.
+Select the first control, marked with a plus sign, to make the map appear larger.
 
 ## Zoom out
 
-The second button, the one with the minus sign, zooms out, making your map look smaller.
+Select the second control, marked with a minus sign, to make the map appear smaller.
 
-## Fit to screen
+## Fit the map to the available space
 
-The third button, the one with the square with squares on its corners, is the fit-to-screen button. It zooms in or out on your map so that your map fills up your view of Argumentation.
+Select the third control to adjust the map's scale and position so that the complete map fits within the available canvas area.
 
-## Toggle mini map
+## Show or hide the mini-map
 
-The fourth and final button, the one with the three rectangles connected lengthwise, is the toggle mini-map button. Clicking this brings up a map, in the lower right-hand corner of Argumentation, a zoomed-out view of the overall structure of your map. Clicking the toggle mini-map button again removes this map.
+Select the fourth control to show a miniature overview of the map in the lower-right corner of the workspace. Select the control again to hide the mini-map.
+
+The mini-map is particularly useful when the complete argument extends beyond the visible canvas.

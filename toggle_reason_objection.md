@@ -1,11 +1,17 @@
 ---
-title: Toggle Reason/Objection
+title: Change a Box's Type
 layout: default
+parent: Create and Edit Maps
 nav_order: 6
 ---
 
-# Toggle Reason/Objection
+# Change a Box's Type
 
-“Toggle” reason/objection means changing a reason box into an objection box or vice versa.
+The **Toggle reason/objection/other** command changes the type of the selected box. Each use advances through this cycle:
 
-To do this, select the desired box and either press the Toggle reason/objection button in the command bar or use the key command Shift+Alt+G.
+> reason → objection → other → reason
+
+1. Select the reason, objection, or other box you want to change.
+2. Select **Toggle reason/objection/other** in the toolbar. On Windows, you can instead press `Shift+Alt+G`; on Mac, press `Shift+Option+G`.
+
+The box's type, border, and relationship to the box above it change accordingly.

@@ -1,20 +1,37 @@
 ---
-title: Screen Readers
+title: Use Argumentation.io with a Screen Reader
 layout: default
-nav_order: 8
+parent: Accessibility and Keyboard Use
+nav_order: 2
 ---
-# Screen Readers
-All of Argumentation.io's functions are accessible through key commands and screen readers. [Here](https://argumentation-llc.github.io/howto/key_commands.html) are the key commands; you can also access them through the key commands button in Argumentation.io's control panel (the control panel in the app that also has the reason, objection, and other buttons).
 
-Here are a few tips to make sure your screen reader works for you.
+# Use Argumentation.io with a Screen Reader
 
-## Use Argumentation.io's Navigation Keystrokes to Navigate Your Maps
-Don't use your screen reader's navigation keystrokes. These are Alt + Shift + Arrow key in Windows and Option + Shift + Arrow Key on Mac. While your screen reader's keystrokes will likely get you around your map, they won't let you navigate it in a logical order.
+Argumentation.io provides keyboard commands for creating, editing, and navigating argument maps. These commands allow a screen reader to follow the logical relationships among boxes.
 
-Your screen reader may read out all the relevant information about a box once you select it or navigate on to it. If it doesn't, then to hear information about the box, select its text entry box by pressing Alt + Shift + Enter (Windows) or Option + Shift + Enter (Mac).
+See [Keyboard Commands](./key_commands.html) for the complete reference. You can also select **Key commands** in the Argumentation.io toolbar to open the in-app list.
 
-## Turn off Your Virtual PC Cursor
-[Here](https://support.freedomscientific.com/teachers/lessons/4.2.3_VirtualPCCursor.htm) is an explanation of the virtual PC cursor, including instructions on turning it on and off.
+## Navigate the logical structure of a map
 
-## Screen Reader Compatibility
-Argumentation.io is compatible with NVDA, VoiceOver, and the latest version of JAWS. Its navigation keystrokes aren't compatible with some older versions of JAWS.
+Use Argumentation.io's map-navigation commands rather than your screen reader's ordinary webpage-navigation commands:
+
+- On Windows, use `Shift+Alt` with the arrow keys.
+- On Mac, use `Shift+Option` with the arrow keys.
+
+These commands move among a selected box's parent, children, and siblings. This follows the logical structure of the argument, which may differ from the order in which a screen reader encounters elements on the webpage.
+
+To move among the main contentions of a map containing multiple trees, press `Shift+Alt+M` on Windows or `Shift+Option+M` on Mac.
+
+## Hear and edit the contents of a box
+
+When a box is selected, the screen reader announces information about it. If the box has a color tag, the tag color is also announced.
+
+To place focus in the box's text area, press `Shift+Alt+Enter` on Windows or `Shift+Option+Enter` on Mac. Enter or edit the text, then press the same command again to leave text-editing mode and return focus to the box.
+
+## JAWS virtual PC cursor
+
+When using JAWS, you may need to turn off the virtual PC cursor while working with the map so that Argumentation.io receives its keyboard commands. Freedom Scientific provides an [explanation of the virtual PC cursor and instructions for turning it on or off](https://support.freedomscientific.com/teachers/lessons/4.2.3_VirtualPCCursor.htm).
+
+## Screen-reader compatibility
+
+Argumentation.io supports NVDA, VoiceOver, and current versions of JAWS. Some older versions of JAWS may not recognize Argumentation.io's map-navigation commands.
