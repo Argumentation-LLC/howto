@@ -25,13 +25,14 @@ The toolbar is centered at the top of the workspace. Its controls, from left to 
 4. **Add co-premise**
 5. **Add main contention**
 6. **Toggle reason/objection/other**
-7. **Delete**
-8. **Tag**
-9. **Undo**
-10. **Redo**
-11. **Key commands**
+7. **Mark as suppressed premise**
+8. **Delete**
+9. **Tag**
+10. **Undo**
+11. **Redo**
+12. **Key commands**
 
-![Close-up of the toolbar, showing the eleven controls in the order listed above.](./images/toolbar.png)
+![Close-up of the toolbar, showing the twelve controls in the order listed above.](./images/toolbar.png)
 
 The available action may depend on which box is selected. For example, select a box before adding a reason beneath it or applying a tag.
 
