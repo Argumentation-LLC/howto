@@ -29,17 +29,17 @@ These commands follow the logical structure of the map. The `Tab` key moves amon
 
 To move among the main contentions of a map containing multiple trees, press `Shift+Alt+M` on Windows or `Shift+Option+M` on Mac.
 
-## Mark a premise as suppressed
+## Mark a premise as unstated
 
-A suppressed premise is an unstated premise that is needed to support an inference. You can mark a premise as suppressed by giving its box a dashed outline.
+An unstated premise is a premise that is needed to support an inference, but that hasn't been explicitly stated. You can mark a premise as unstated by giving its box a dashed outline.
 
 1. Select the premise you want to mark.
-2. Select **Mark as suppressed premise** in the toolbar. On Windows, you can instead press `Shift+Alt+U`; on Mac, press `Shift+Option+U`.
+2. Select **Mark as unstated premise** in the toolbar. On Windows, you can instead press `Shift+Alt+U`; on Mac, press `Shift+Option+U`.
 
-![The Argumentation.io toolbar with the Mark as suppressed premise button identified.](images/suppressed-premise-button.png)
+![The Argumentation.io toolbar with the Mark as unstated premise button identified.](images/unstated-premise-button.png)
 
 To restore the box's solid outline, use the button or keyboard command again.
 
-A dashed box outline indicates a suppressed premise. By contrast, the yellow halo and the temporarily dashed line connecting a box to its parent indicate that the box is selected.
+A dashed box outline indicates an unstated premise. By contrast, the yellow halo and the temporarily dashed line connecting a box to its parent indicate that the box is selected.
 
-![Two reason boxes, one with a solid outline and one with a dashed outline indicating a suppressed premise.](images/suppressed-premise-example.png)
+![Two reason boxes, one with a solid outline and one with a dashed outline indicating an unstated premise.](images/unstated-premise-example.png)

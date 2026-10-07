@@ -25,7 +25,7 @@ The toolbar is centered at the top of the workspace. Its controls, from left to 
 4. **Add co-premise**
 5. **Add main contention**
 6. **Toggle reason/objection/other**
-7. **Mark as suppressed premise**
+7. **Mark as unstated premise**
 8. **Delete**
 9. **Tag**
 10. **Undo**
