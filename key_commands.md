@@ -31,6 +31,7 @@ The keyboard commands below work while you are using the map workspace. You can 
 | Delete the selected box or branch | `Shift+Alt+D` | `Shift+Option+D` |
 | Cycle among reason, objection, and other | `Shift+Alt+G` | `Shift+Option+G` |
 | Open the Tag menu | `Shift+Alt+T` | `Shift+Option+T` |
+| Mark or unmark an unstated premise | `Shift+Alt+U` | `Shift+Option+U` |
 
 ## Move boxes
 
